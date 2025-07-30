@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "F1H9XV2FmeQpnbbgBhDFRWf1GmW7U2NdXhm3FMCPRnzT",
+  "symbol": "GGPAY",
+  "name": "GG Pay Coin",
+  "decimals": 9,
+  "logoURI": "https://drive.google.com/file/d/1R3IW4cLg1hq7ifFNfKCK904NmCZsdvry/view?usp=drivesdk",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "https://www.ggpayfinance.com",
+    "twitter": "https://twitter.com/GGPAY"
+  }
+}
